@@ -27,7 +27,6 @@ import { pluginCustomCopyButton } from "./src/plugins/expressive-code/custom-cop
 // https://astro.build/config
 export default defineConfig({
 	site: "https://fuwari.vercel.app/",
-	base: "/morningiseul",
 	trailingSlash: "always",
 	integrations: [
 		tailwind({

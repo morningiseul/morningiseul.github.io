@@ -56,7 +56,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Iseul",
 	bio: "“Where does music go when it’s not playing?—she asked herself. And disarmed she would answer: May they make a harp out of my nerves when I die.”  
-― Clarice Lispector, Near to the Wild Heart",
+\ ― Clarice Lispector, Near to the Wild Heart",
 	//links: [
 		//{
 		//	name: "Twitter",

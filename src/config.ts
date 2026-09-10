@@ -48,7 +48,7 @@ export const navBarConfig: NavBarConfig = {
 		//	name: "GitHub",
 		//	url: "https://github.com/saicaca/fuwari", // Internal links should not include the base path, as it is automatically added
 		//	external: true, // Show an external link icon and will open in a new tab
-	//	},
+		//	},
 	],
 };
 
@@ -57,12 +57,12 @@ export const profileConfig: ProfileConfig = {
 	name: "Iseul",
 	bio: "“Where does music go when it’s not playing?—she asked herself. And disarmed she would answer: May they make a harp out of my nerves when I die.”  ― Clarice Lispector, Near to the Wild Heart",
 	//links: [
-		//{
-		//	name: "Twitter",
-		//	icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-			// You will need to install the corresponding icon set if it's not already included
-			// `pnpm add @iconify-json/<icon-set-name>`
-		//	url: "https://twitter.com",
+	//{
+	//	name: "Twitter",
+	//	icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
+	// You will need to install the corresponding icon set if it's not already included
+	// `pnpm add @iconify-json/<icon-set-name>`
+	//	url: "https://twitter.com",
 	//	},
 	//	{
 	//		name: "Steam",
@@ -74,7 +74,7 @@ export const profileConfig: ProfileConfig = {
 	//		icon: "fa6-brands:github",
 	//		url: "https://github.com/saicaca/fuwari",
 	//	},
-//	],
+	//	],
 };
 
 export const licenseConfig: LicenseConfig = {

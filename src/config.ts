@@ -56,25 +56,7 @@ export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/avatar.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Iseul",
 	bio: "“Where does music go when it’s not playing?—she asked herself. And disarmed she would answer: May they make a harp out of my nerves when I die.”  ― Clarice Lispector, Near to the Wild Heart",
-	//links: [
-	//{
-	//	name: "Twitter",
-	//	icon: "fa6-brands:twitter", // Visit https://icones.js.org/ for icon codes
-	// You will need to install the corresponding icon set if it's not already included
-	// `pnpm add @iconify-json/<icon-set-name>`
-	//	url: "https://twitter.com",
-	//	},
-	//	{
-	//		name: "Steam",
-	//		icon: "fa6-brands:steam",
-	//		url: "https://store.steampowered.com",
-	//	},
-	//	{
-	//		name: "GitHub",
-	//		icon: "fa6-brands:github",
-	//		url: "https://github.com/saicaca/fuwari",
-	//	},
-	//	],
+	links: [],
 };
 
 export const licenseConfig: LicenseConfig = {

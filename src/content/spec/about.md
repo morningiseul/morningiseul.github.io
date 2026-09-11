@@ -1,9 +1,9 @@
 # About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+A cozy little nook for translations by yours truly, Yiseul.
 
-::github{repo="saicaca/fuwari"}
+The novels posted on this site do not belong to me; I am but one translator who wishes to share these delights with anyone who may stumble across them. Please support the original authors by purchasing the raws whenever possible.
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> ### Sources used in this site
+> - [Template](https://github.com/saicaca/fuwari) by Fuwari
+> - [Header](https://unsplash.com/photos/top-view-photography-of-beach-3kUIaB2EPp8) by Patrick Ryan
+> - Avatar by Clamp

@@ -1,5 +1,5 @@
 # About
-A cozy little nook for translations by yours truly, Yiseul.
+A cozy little nook for translations by yours truly, Iseul.
 
 The novels posted on this site do not belong to me; I am but one translator who wishes to share these delights with anyone who may stumble across them. Please support the original authors by purchasing the raws whenever possible.
 

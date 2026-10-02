@@ -1,7 +1,7 @@
 ---
 title: PF Chapter 1 Part 1
 published: 2026-10-01
-description: [Oh... what a shame. Has Zephyr once again misjudged their downforce setup? That cornering is really holding them back!]
+description: Oh... what a shame. Has Zephyr once again misjudged their downforce setup? That cornering is really holding them back!
 tags: [PF]
 category: Updates
 draft: false

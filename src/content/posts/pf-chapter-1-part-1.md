@@ -75,7 +75,7 @@ Cha Yihyun, the man who’d been observing the screen, dragged the progress bar 
 
 [Has Zephyr finally managed to improve that car of theirs?]
 
-“......”
+“...&#46;&#46;&#46;”
 
 They were seriously debating whether to sign this guy?
 

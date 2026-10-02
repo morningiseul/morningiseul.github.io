@@ -1,7 +1,7 @@
 ---
 title: PWCB Chapter 1
 published: 2026=10-02
-description: “Oh, for fuck’s sake.”
+description: Oh, for fuck’s sake.
 tags: [PWCB]
 category: Updates
 draft: false

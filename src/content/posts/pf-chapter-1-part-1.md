@@ -13,19 +13,19 @@ draft: false
 
 On the tablet screen, a blue car wobbled precariously as it took the corner. Moments later, the team radio crackled to life, relaying a man’s voice. It was thick with exertion, each word wrenched out against the crushing force of the G-load.
 
-- Car feels off. The brakes are responding too slowly.
+*&ndash; Car feels off. The brakes are responding too slowly.*
 
-- Adrian, box now.
+*&ndash; Adrian, box now.*
 
-- Are you kidding me? I’m right on his tail, and you want me to box?
+*&ndash; Are you kidding me? I’m right on his tail, and you want me to box?*
 
-- Call’s been made for tires.
+*&ndash; Call’s been made for tires.*
 
-- I already told you I can keep going! What do you mean, tires? These softs are good for another five laps!
+*&ndash; I already told you I can keep going! What do you mean, tires? These softs are good for another five laps!*
 
-- Follow instructions.
+*&ndash; Follow instructions.*
 
-- For ****’s sake! If I don’t pass him now, I never will! Do you not understand that?
+*&ndash; For &#42;&#42;&#42;&#42;’s sake! If I don’t pass him now, I never will! Do you not understand that?*
 
 Per F1 broadcasting regulations, the driver’s profanity was dutifully bleeped out. However, his raw, unfiltered frustration bled through all the same.
 
@@ -35,7 +35,7 @@ Per F1 broadcasting regulations, the driver’s profanity was dutifully bleeped 
 
 [Absolutely! Had he just maintained his pace, he could have lined up a counterattack in the next DRS zone. Such a pity. He’s already fallen over two seconds adrift of McConnell. And to make matters worse, it looks like he’s going in for a tire change. McConnell, meanwhile, is running on hards, which means he’s got tire life to spare, doesn’t he? At this rate, even if Falken pits, by the time he gets any real temperature into those new tires... Huuuh?]
 
-Crash!
+*Crash!*
 
 As the blue car reached the sharp hairpin turn, it slammed into the barricade, thick white smoke billowing from its tail.
 
@@ -127,7 +127,7 @@ People loved to rail against the sport for ravaging the environment, but those s
 
 Still, it was his money funding the team. He’d hoped, at the very least, to watch them clinch a championship just once. Instead, all he’d gotten for his trouble was a spike in his blood pressure.
 
-Do you have any idea what I went through just to get our corporate logo slapped onto those mint-coloured race suits?
+*Do you have any idea what I went through just to get our corporate logo slapped onto those mint-coloured race suits?*
 
 He’d even fretted that corporate funds alone wouldn’t be enough to assert his presence, so he’d sunk his own private fortune into a personal sponsorship for a driver he had no interest in whatsoever. And this was in spite of the fact that he’d already had his eye on a different driver.
 

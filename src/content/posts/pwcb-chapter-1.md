@@ -39,9 +39,9 @@ His main account, which always sat at the highest echelons of the ladder, had be
 
 His phone buzzed on the wireless charger beside the keyboard. Jihan closed the infuriating suspension notice and reached for the device.
 
-<div style="background-color: #808080 !important; border: 1px solid #808080 !important; border-radius: 0.5em !important; color: #ffffff !important; padding: 0.6em !important; align-items: center !important; gap: 0.6em !important;">
+<div style="background-color: #808080 ; border: 1px solid #808080 ; border-radius: 0.5em ; color: #ffffff ; padding: 0.6em ; align-items: center ; gap: 0.6em ;">
 
-<img style="width: 32px !important; height: 32px !important; flex-shrink: 0 !important; border-radius: 8px !important; margin: 0 !important;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" /> <strong>roennuu_official</strong> tagged you in a post.
+<img style="width: 32px ; height: 32px ; flex-shrink: 0 ; border-radius: 8px ; margin: 0 ;" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" /> <strong>roennuu_official</strong> tagged you in a post.
 
 </div>
 
@@ -56,45 +56,45 @@ It was the coffee commercial he’d shot recently after his agency nagged him in
 
 He didn’t bother reading the rest of the protracted commercial blurb. Instead, he opened the comments, pulled up the emoji keyboard, and left two orange hearts, which was the signature colour of Roenuu Coffee. The post had been up for less than three minutes, yet it was already flooded with comments.
 
-<div style="align-items: center !important; padding: 0.75em 0 !important;">
-<div style="width: 50px !important; text-align: center !important; padding: 0 1em 0 0 !important;"><img style="margin: 0 !important;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
+<div style="align-items: center ; padding: 0.75em 0 ;">
+<div style="width: 50px; text-align: center; padding: 0 1em 0 0 ;"><img style="margin: 0 ;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
 <div>
-<p style="text-indent: 0em !important; margin: 0 !important;">Seo Jihan??? Seriously????</p>
+<p style="text-indent: 0em ; margin: 0 ;">Seo Jihan??? Seriously????</p>
 
 </div>
 </div>
-<div style="align-items: center !important; padding: 0.75em 0 !important;">
-<div style="width: 50px !important; text-align: center !important; padding: 0 1em 0 0 !important;"><img style="margin: 0 !important;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
+<div style="align-items: center ; padding: 0.75em 0 ;">
+<div style="width: 50px ; text-align: center ; padding: 0 1em 0 0 ;"><img style="margin: 0 ;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
 <div>
-<p style="text-indent: 0em !important; margin: 0 !important;">Roenuu actually popped off with this one lol W collab</p>
+<p style="text-indent: 0em ; margin: 0 ;">Roenuu actually popped off with this one lol W collab</p>
 
 </div>
 </div>
-<div style="align-items: center !important; padding: 0.75em 0 !important;">
-<div style="width: 50px !important; text-align: center !important; padding: 0 1em 0 0 !important;"><img style="margin: 0 !important;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
+<div style="align-items: center ; padding: 0.75em 0 ;">
+<div style="width: 50px ; text-align: center ; padding: 0 1em 0 0 ;"><img style="margin: 0 ;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
 <div>
-<p style="text-indent: 0em !important; margin: 0 !important;">jihannnnnnnn love uuuuu plz come to brazil were ready for u</p>
+<p style="text-indent: 0em ; margin: 0 ;">jihannnnnnnn love uuuuu plz come to brazil were ready for u</p>
 
 </div>
 </div>
-<div style="align-items: center !important; padding: 0.75em 0 !important;">
-<div style="width: 50px !important; text-align: center !important; padding: 0 1em 0 0 !important;"><img style="margin: 0 !important;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
+<div style="align-items: center ; padding: 0.75em 0 ;">
+<div style="width: 50px ; text-align: center ; padding: 0 1em 0 0 ;"><img style="margin: 0 ;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
 <div>
-<p style="text-indent: 0em !important; margin: 0 !important;">Bro is handsome asf we gotta preserve those genes</p>
+<p style="text-indent: 0em ; margin: 0 ;">Bro is handsome asf we gotta preserve those genes</p>
 
 </div>
 </div>
-<div style="align-items: center !important; padding: 0.75em 0 !important;">
-<div style="width: 50px !important; text-align: center !important; padding: 0 1em 0 0 !important;"><img style="margin: 0 !important;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
+<div style="align-items: center ; padding: 0.75em 0 ;">
+<div style="width: 50px ; text-align: center ; padding: 0 1em 0 0 ;"><img style="margin: 0 ;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
 <div>
-<p style="text-indent: 0em !important; margin: 0 !important;">gorgeous 🌹</p>
+<p style="text-indent: 0em ; margin: 0 ;">gorgeous 🌹</p>
 
 </div>
 </div>
-<div style="align-items: center !important; padding: 0.75em 0 !important;">
-<div style="width: 50px !important; text-align: center !important; padding: 0 1em 0 0 !important;"><img style="margin: 0 !important;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
+<div style="align-items: center ; padding: 0.75em 0 ;">
+<div style="width: 50px ; text-align: center ; padding: 0 1em 0 0 ;"><img style="margin: 0 ;" src="https://i.imgur.com/tEziLix.png" alt="insta_re" width="50px" /></div>
 <div>
-<p style="text-indent: 0em !important; margin: 0 !important;">A coffee ad when he's not even a celebrity? Hmm lol</p>
+<p style="text-indent: 0em ; margin: 0 ;">A coffee ad when he's not even a celebrity? Hmm lol</p>
 
 </div>
 </div>
